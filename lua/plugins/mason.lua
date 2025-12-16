@@ -13,6 +13,7 @@ return {
       "css-lsp",
       "html-lsp",
       "typescript-language-server",
+      "emmet-language-server",
     },
   },
   ---@param opts MasonSettings | {ensure_installed: string[]}
